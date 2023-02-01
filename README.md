@@ -9,7 +9,7 @@ QQ相册自动上传照片
 
 
 **注意事项：**     
-1. 使用前请先**解压Chrome.zip**
+1. 使用前请先**解压Chrome.zip**，放到与**upload.py**同路径下。[Chrome.zip下载链接](https://raw.githubusercontent.com/1061700625/QQZone_AutoDownload_Album/master/Chrome.rar)
 
 **脚本执行流程：**    
 1. 自动打开浏览器，手动配合完成登录；
