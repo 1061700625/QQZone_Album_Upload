@@ -20,6 +20,8 @@ QQ相册自动上传照片
 **运行效果：**    
 ![image](https://user-images.githubusercontent.com/31002981/216118293-92600877-4ec5-4a84-b0da-569b87c68f1b.png)
 
-
-
+**库：**
+```bash
+pip instal DrissionPage pyautoit pyautogui tqdm
+```
 
